@@ -12,7 +12,7 @@ I'm a university student based in Kenya, currently on a journey to transition in
 * Build my first automated security script in Python
 
 **📫 Let's connect:**
-* LinkedIn: [Insert your link here, or just delete this line for now!]
+* LinkedIn: https://www.linkedin.com/in/brian-ngala/
 <!--
 **BrianNgala/BrianNgala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
