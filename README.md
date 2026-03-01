@@ -1,5 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Brian! 👋
 
+I'm a university student based in Kenya, currently on a journey to transition into the Cybersecurity industry. I am passionate about understanding how systems work so I can learn how to protect them.
+
+**🌱 What I'm focusing on right now:**
+* Mastering Python programming through Harvard's CS50P
+* Building a strong foundation in IT and security operations
+
+**🎯 My Goals for 2026:**
+* Complete my CS50P final project
+* Begin the Google Cybersecurity Professional Certificate
+* Build my first automated security script in Python
+
+**📫 Let's connect:**
+* LinkedIn: [Insert your link here, or just delete this line for now!]
 <!--
 **BrianNgala/BrianNgala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
